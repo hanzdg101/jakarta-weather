@@ -10,23 +10,103 @@
 
 ---
 
-## 📊 Broken Clouds — Friday
+## 📊 Broken Clouds — Friday, 26 June 2026
 
 <div align="center">
-
-![Suhu](https://img.shields.io/badge/🌡️%20Suhu-29%C2%B0C%20%28terasa%2034%C2%B0C%29-ff6b35?style=for-the-badge)
-![Min Max](https://img.shields.io/badge/🌡️%20Min%20/%20Max-29%C2%B0C%20%2F%2030%C2%B0C-ff8c42?style=for-the-badge)
-![Kelembapan](https://img.shields.io/badge/💧%20Kelembapan-77%25-4fc3f7?style=for-the-badge)
-![Angin](https://img.shields.io/badge/🌬️%20Angin-1.79%20m%2Fs%20dari%20E-81d4fa?style=for-the-badge)
-![Awan](https://img.shields.io/badge/☁️%20Tutupan%20Awan-64%25-90a4ae?style=for-the-badge)
-![Jarak Pandang](https://img.shields.io/badge/👁️%20Jarak%20Pandang-10.0%20km-78909c?style=for-the-badge)
-![Tekanan](https://img.shields.io/badge/🌫️%20Tekanan%20Udara-1011%20hPa-ab47bc?style=for-the-badge)
-![Hujan](https://img.shields.io/badge/🌧️%20Hujan%20(1%20jam)---1e88e5?style=for-the-badge)
-![AQI](https://img.shields.io/badge/🏭%20Kualitas%20Udara-Fair%20🟡-yellowgreen?style=for-the-badge)
-![Sunrise](https://img.shields.io/badge/🌅%20Matahari%20Terbit-06:02%20WIB-ffca28?style=for-the-badge)
-![Sunset](https://img.shields.io/badge/🌇%20Matahari%20Terbenam-17:48%20WIB-ff7043?style=for-the-badge)
-![Updated](https://img.shields.io/badge/🕗%20Diperbarui-26%20June%202026%2C%2020:50%20WIB-informational?style=for-the-badge)
-
+<table style="border-collapse:collapse;background:#0f172a;border-radius:16px;overflow:hidden;">
+  <tr>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🌡️ Suhu</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">29°C</p>
+        <p style="margin:2px 0 0;font-size:11px;color:#64748b;">terasa 34°C</p>
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🌡️ Min / Max</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">29° / 29°</p>
+        <p style="margin:2px 0 0;font-size:11px;color:#64748b;">hari ini</p>
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">💧 Kelembapan</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">78%</p>
+        
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🌬️ Angin</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">3.13 m/s</p>
+        <p style="margin:2px 0 0;font-size:11px;color:#64748b;">dari E</p>
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">☁️ Tutupan Awan</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">64%</p>
+        
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">👁️ Jarak Pandang</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">10.0 km</p>
+        
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🌫️ Tekanan</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">1011 hPa</p>
+        
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🌧️ Hujan (1 jam)</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">—</p>
+        
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🏭 Kualitas Udara</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#84cc16;">Fair 🟡</p>
+        <p style="margin:2px 0 0;font-size:11px;color:#64748b;">AQI 2</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🌅 Matahari Terbit</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">06:02</p>
+        <p style="margin:2px 0 0;font-size:11px;color:#64748b;">WIB</p>
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🌇 Matahari Terbenam</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">17:48</p>
+        <p style="margin:2px 0 0;font-size:11px;color:#64748b;">WIB</p>
+      </div>
+    </td>
+    <td style="padding:6px;">
+      <div style="background:#1e293b;border-radius:10px;padding:10px 12px;min-width:120px;">
+        <p style="margin:0 0 4px;font-size:11px;color:#64748b;">🕗 Diperbarui</p>
+        <p style="margin:0;font-size:15px;font-weight:600;color:#e2e8f0;">26 June 2026, 21:03 WIB</p>
+        
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
