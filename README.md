@@ -1,6 +1,6 @@
 # 🌦️ Jakarta Weather Tracker
 
-> Cuaca Jakarta diperbarui otomatis via [OpenWeatherMap](https://openweathermap.org/) · Update: 07:00 – 22:00 WIB
+> Jakarta weather auto-updated via [OpenWeatherMap](https://openweathermap.org/) · Updates: 07:00 – 22:00 WIB
 
 <div align="center">
 
@@ -14,23 +14,23 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Suhu** &nbsp; `33°C` *(terasa 40°C)* | 💧 | **Kelembapan** &nbsp; `63%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Tutupan Awan** &nbsp; `77%` |
-| 🌬️ | **Angin** &nbsp; `0.45 m/s` dari `NW` | 👁️ | **Jarak Pandang** &nbsp; `10.0 km` |
-| 🌫️ | **Tekanan** &nbsp; `1008 hPa` | 🌧️ | **Hujan (1 jam)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 40°C)* | 💧 | **Humidity** &nbsp; `62%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 34°` | ☁️ | **Cloud Cover** &nbsp; `62%` |
+| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `W` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1008 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:02 WIB` | 🌇 | **Sunset** &nbsp; `17:48 WIB` |
-| 🏭 | **Kualitas Udara** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Update** &nbsp; `27 June 2026, 14:54 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `27 June 2026, 15:21 WIB` |
 
 ---
 
 ## 📂 Data & Log
 
-| File | Deskripsi |
+| File | Description |
 |:---|:---|
-| 📄 [weather.json](./weather.json) | Raw data cuaca terbaru dari API |
+| 📄 [weather.json](./weather.json) | Latest raw weather data from API |
 | 🎨 [card.svg](./card.svg) | Weather card (SVG) |
-| 📁 [history/](./history) | Snapshot cuaca per sesi |
+| 📁 [history/](./history) | Weather snapshots per session |
 
 ---
 
-<sub>⚙️ Dijalankan otomatis oleh [GitHub Actions](../../actions) · Sumber: OpenWeatherMap API</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: OpenWeatherMap API</sub>
