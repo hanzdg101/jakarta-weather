@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Suhu** &nbsp; `33°C` *(terasa 39°C)* | 💧 | **Kelembapan** &nbsp; `62%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Tutupan Awan** &nbsp; `54%` |
-| 🌬️ | **Angin** &nbsp; `0.45 m/s` dari `W` | 👁️ | **Jarak Pandang** &nbsp; `10.0 km` |
+| 🌡️ | **Suhu** &nbsp; `33°C` *(terasa 40°C)* | 💧 | **Kelembapan** &nbsp; `63%` |
+| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Tutupan Awan** &nbsp; `77%` |
+| 🌬️ | **Angin** &nbsp; `0.45 m/s` dari `NW` | 👁️ | **Jarak Pandang** &nbsp; `10.0 km` |
 | 🌫️ | **Tekanan** &nbsp; `1008 hPa` | 🌧️ | **Hujan (1 jam)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:02 WIB` | 🌇 | **Sunset** &nbsp; `17:48 WIB` |
-| 🏭 | **Kualitas Udara** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Update** &nbsp; `27 June 2026, 13:37 WIB` |
+| 🏭 | **Kualitas Udara** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Update** &nbsp; `27 June 2026, 14:54 WIB` |
 
 ---
 
