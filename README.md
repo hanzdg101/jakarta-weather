@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Tuesday, 07 July 2026
+## 📊 Broken Clouds — Wednesday, 08 July 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `75%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 30°` | ☁️ | **Cloud Cover** &nbsp; `70%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `80%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `66%` |
+| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:50 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `07 July 2026, 18:32 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `08 July 2026, 00:25 WIB` |
 
 ---
 
