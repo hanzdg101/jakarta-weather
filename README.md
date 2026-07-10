@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Friday, 10 July 2026
+## 📊 Few Clouds — Friday, 10 July 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `25°C` *(feels like 25°C)* | 💧 | **Humidity** &nbsp; `62%` |
-| 🌡️ | **Min / Max** &nbsp; `24° / 26°` | ☁️ | **Cloud Cover** &nbsp; `61%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `74%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 29°` | ☁️ | **Cloud Cover** &nbsp; `15%` |
+| 🌬️ | **Wind** &nbsp; `2.24 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:51 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `10 July 2026, 03:58 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `10 July 2026, 18:22 WIB` |
 
 ---
 
