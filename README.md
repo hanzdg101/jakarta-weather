@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Saturday, 11 July 2026
+## 📊 Overcast Clouds — Sunday, 12 July 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 34°C)* | 💧 | **Humidity** &nbsp; `72%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 29°` | ☁️ | **Cloud Cover** &nbsp; `49%` |
-| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 27°C)* | 💧 | **Humidity** &nbsp; `73%` |
+| 🌡️ | **Min / Max** &nbsp; `26° / 27°` | ☁️ | **Cloud Cover** &nbsp; `86%` |
+| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:51 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `11 July 2026, 18:39 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `12 July 2026, 01:08 WIB` |
 
 ---
 
