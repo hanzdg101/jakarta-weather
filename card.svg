@@ -14,14 +14,14 @@
 
   <!-- Header: location + date -->
   <text x="24" y="36" font-size="13" fill="#94a3b8" font-weight="400">📍 Jakarta, Indonesia</text>
-  <text x="516" y="36" font-size="13" fill="#64748b" text-anchor="end">Sunday, 12 July 2026</text>
+  <text x="516" y="36" font-size="13" fill="#64748b" text-anchor="end">Monday, 13 July 2026</text>
 
   <!-- Big emoji -->
   <text x="24" y="100" font-size="56">🌥️</text>
 
   <!-- Big temperature -->
-  <text x="100" y="85" font-size="52" font-weight="600" fill="#f1f5f9">29°C</text>
-  <text x="102" y="108" font-size="13" fill="#64748b">terasa 35°C · 29°–29°</text>
+  <text x="100" y="85" font-size="52" font-weight="600" fill="#f1f5f9">27°C</text>
+  <text x="102" y="108" font-size="13" fill="#64748b">terasa 31°C · 27°–28°</text>
 
   <!-- Condition -->
   <text x="102" y="130" font-size="15" font-weight="500" fill="#94a3b8">Overcast Clouds</text>
@@ -32,11 +32,11 @@
   <!-- Metrics grid: 3 columns x 3 rows -->
   <rect x="24" y="162" width="156" height="40" rx="8" fill="#1e293b"/>
   <text x="34" y="178" font-size="10" fill="#475569">💧 Humidity</text>
-  <text x="34" y="194" font-size="14" font-weight="500" fill="#e2e8f0">74%</text>
+  <text x="34" y="194" font-size="14" font-weight="500" fill="#e2e8f0">85%</text>
   <rect x="188" y="162" width="156" height="40" rx="8" fill="#1e293b"/>
   <text x="198" y="178" font-size="10" fill="#475569">🌬️ Wind</text>
-  <text x="198" y="194" font-size="14" font-weight="500" fill="#e2e8f0">0.45 m/s</text>
-  <text x="266" y="194" font-size="10" fill="#475569">dari NE</text>
+  <text x="198" y="194" font-size="14" font-weight="500" fill="#e2e8f0">0.89 m/s</text>
+  <text x="266" y="194" font-size="10" fill="#475569">dari SE</text>
   <rect x="352" y="162" width="156" height="40" rx="8" fill="#1e293b"/>
   <text x="362" y="178" font-size="10" fill="#475569">👁️ Visibility</text>
   <text x="362" y="194" font-size="14" font-weight="500" fill="#e2e8f0">10.0 km</text>
@@ -45,7 +45,7 @@
   <text x="34" y="240" font-size="14" font-weight="500" fill="#e2e8f0">100%</text>
   <rect x="188" y="208" width="156" height="40" rx="8" fill="#1e293b"/>
   <text x="198" y="224" font-size="10" fill="#475569">🌫️ Pressure</text>
-  <text x="198" y="240" font-size="14" font-weight="500" fill="#e2e8f0">1010 hPa</text>
+  <text x="198" y="240" font-size="14" font-weight="500" fill="#e2e8f0">1012 hPa</text>
   <rect x="352" y="208" width="156" height="40" rx="8" fill="#1e293b"/>
   <text x="362" y="224" font-size="10" fill="#475569">🌡️ Dew Point</text>
   <text x="362" y="240" font-size="14" font-weight="500" fill="#e2e8f0">24°C</text>
@@ -58,12 +58,12 @@
   <text x="198" y="286" font-size="14" font-weight="500" fill="#e2e8f0">17:51</text>
   <text x="242" y="286" font-size="10" fill="#475569">WIB</text>
   <rect x="352" y="254" width="156" height="40" rx="8" fill="#1e293b"/>
-  <rect x="354" y="256" width="3" height="36" rx="1.5" fill="#84cc16"/>
+  <rect x="354" y="256" width="3" height="36" rx="1.5" fill="#22c55e"/>
   <text x="362" y="270" font-size="10" fill="#475569">🏭 Air Quality</text>
-  <text x="362" y="286" font-size="14" font-weight="500" fill="#e2e8f0">Fair</text>
-  <text x="398" y="286" font-size="10" fill="#475569">AQI 2</text>
+  <text x="362" y="286" font-size="14" font-weight="500" fill="#e2e8f0">Good</text>
+  <text x="398" y="286" font-size="10" fill="#475569">AQI 1</text>
 
   <!-- Footer -->
-  <text x="270" y="308" font-size="11" fill="#334155" text-anchor="middle">⚙️ Auto-updated via GitHub Actions · 12 Jul 2026, 17:59 WIB</text>
+  <text x="270" y="308" font-size="11" fill="#334155" text-anchor="middle">⚙️ Auto-updated via GitHub Actions · 13 Jul 2026, 01:11 WIB</text>
 
 </svg>
