@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Tuesday, 14 July 2026
+## 📊 Scattered Clouds — Tuesday, 14 July 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 29°C)* | 💧 | **Humidity** &nbsp; `73%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 27°` | ☁️ | **Cloud Cover** &nbsp; `22%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 27°C)* | 💧 | **Humidity** &nbsp; `74%` |
+| 🌡️ | **Min / Max** &nbsp; `26° / 27°` | ☁️ | **Cloud Cover** &nbsp; `32%` |
+| 🌬️ | **Wind** &nbsp; `2.96 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:51 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `14 July 2026, 01:50 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `14 July 2026, 03:02 WIB` |
 
 ---
 
