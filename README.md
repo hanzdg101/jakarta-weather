@@ -15,11 +15,11 @@
 | | | | |
 |:---:|:---|:---:|:---|
 | 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 29°C)* | 💧 | **Humidity** &nbsp; `77%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 27°` | ☁️ | **Cloud Cover** &nbsp; `10%` |
-| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 27°` | ☁️ | **Cloud Cover** &nbsp; `9%` |
+| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `16 July 2026, 00:49 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `16 July 2026, 01:45 WIB` |
 
 ---
 
