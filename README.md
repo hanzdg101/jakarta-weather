@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Friday, 17 July 2026
+## 📊 Broken Clouds — Saturday, 18 July 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `68%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 30°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `NW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `78%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `67%` |
+| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `17 July 2026, 18:09 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `18 July 2026, 01:39 WIB` |
 
 ---
 
