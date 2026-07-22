@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `62%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 29°` | ☁️ | **Cloud Cover** &nbsp; `42%` |
-| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `63%` |
+| 🌡️ | **Min / Max** &nbsp; `28° / 29°` | ☁️ | **Cloud Cover** &nbsp; `41%` |
+| 🌬️ | **Wind** &nbsp; `3.58 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `22 July 2026, 17:53 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `22 July 2026, 18:32 WIB` |
 
 ---
 
