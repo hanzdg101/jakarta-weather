@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Friday, 24 July 2026
+## 📊 Scattered Clouds — Saturday, 25 July 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `60%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 29°` | ☁️ | **Cloud Cover** &nbsp; `50%` |
-| 🌬️ | **Wind** &nbsp; `4.29 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 30°C)* | 💧 | **Humidity** &nbsp; `45%` |
+| 🌡️ | **Min / Max** &nbsp; `28° / 31°` | ☁️ | **Cloud Cover** &nbsp; `32%` |
+| 🌬️ | **Wind** &nbsp; `1.79 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `24 July 2026, 19:23 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `25 July 2026, 09:33 WIB` |
 
 ---
 
