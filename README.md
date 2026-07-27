@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `35%` |
-| 🌡️ | **Min / Max** &nbsp; `31° / 33°` | ☁️ | **Cloud Cover** &nbsp; `60%` |
-| 🌬️ | **Wind** &nbsp; `3.58 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `31%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 36°` | ☁️ | **Cloud Cover** &nbsp; `64%` |
+| 🌬️ | **Wind** &nbsp; `2.24 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1008 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:04 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `27 July 2026, 11:31 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `27 July 2026, 13:25 WIB` |
 
 ---
 
