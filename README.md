@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Thursday, 30 July 2026
+## 📊 Clear Sky — Friday, 31 July 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `46%` |
-| 🌡️ | **Min / Max** &nbsp; `31° / 34°` | ☁️ | **Cloud Cover** &nbsp; `11%` |
-| 🌬️ | **Wind** &nbsp; `2.15 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 34°C)* | 💧 | **Humidity** &nbsp; `51%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 33°` | ☁️ | **Cloud Cover** &nbsp; `7%` |
+| 🌬️ | **Wind** &nbsp; `1.79 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:03 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `30 July 2026, 10:50 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `31 July 2026, 09:44 WIB` |
 
 ---
 
