@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Sunday, 02 August 2026
+## 📊 Few Clouds — Sunday, 02 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `54%` |
-| 🌡️ | **Min / Max** &nbsp; `30° / 33°` | ☁️ | **Cloud Cover** &nbsp; `27%` |
-| 🌬️ | **Wind** &nbsp; `1.79 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 34°C)* | 💧 | **Humidity** &nbsp; `50%` |
+| 🌡️ | **Min / Max** &nbsp; `31° / 34°` | ☁️ | **Cloud Cover** &nbsp; `22%` |
+| 🌬️ | **Wind** &nbsp; `2.68 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:03 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `02 August 2026, 09:42 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `02 August 2026, 11:19 WIB` |
 
 ---
 
