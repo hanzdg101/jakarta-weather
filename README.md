@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Tuesday, 04 August 2026
+## 📊 Overcast Clouds — Tuesday, 04 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `49%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 35°` | ☁️ | **Cloud Cover** &nbsp; `80%` |
-| 🌬️ | **Wind** &nbsp; `2.24 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `53%` |
+| 🌡️ | **Min / Max** &nbsp; `32° / 33°` | ☁️ | **Cloud Cover** &nbsp; `99%` |
+| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `NW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:03 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Poor 🔴 (AQI 4) | 🕗 | **Updated** &nbsp; `04 August 2026, 12:43 WIB` |
+| 🏭 | **Air Quality** &nbsp; Poor 🔴 (AQI 4) | 🕗 | **Updated** &nbsp; `04 August 2026, 14:42 WIB` |
 
 ---
 
