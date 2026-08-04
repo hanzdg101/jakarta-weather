@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `55%` |
-| 🌡️ | **Min / Max** &nbsp; `30° / 33°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
-| 🌬️ | **Wind** &nbsp; `4.02 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.19 mm` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `57%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 31°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
+| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.47 mm` |
 | 🌅 | **Sunrise** &nbsp; `06:03 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Moderate 🟠 (AQI 3) | 🕗 | **Updated** &nbsp; `04 August 2026, 15:32 WIB` |
+| 🏭 | **Air Quality** &nbsp; Moderate 🟠 (AQI 3) | 🕗 | **Updated** &nbsp; `04 August 2026, 16:39 WIB` |
 
 ---
 
