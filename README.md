@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `59%` |
-| 🌡️ | **Min / Max** &nbsp; `30° / 32°` | ☁️ | **Cloud Cover** &nbsp; `5%` |
+| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `51%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 35°` | ☁️ | **Cloud Cover** &nbsp; `5%` |
 | 🌬️ | **Wind** &nbsp; `1.34 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:02 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Moderate 🟠 (AQI 3) | 🕗 | **Updated** &nbsp; `06 August 2026, 10:58 WIB` |
+| 🏭 | **Air Quality** &nbsp; Moderate 🟠 (AQI 3) | 🕗 | **Updated** &nbsp; `06 August 2026, 12:44 WIB` |
 
 ---
 
