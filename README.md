@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Friday, 07 August 2026
+## 📊 Few Clouds — Friday, 07 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `80%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 30°` | ☁️ | **Cloud Cover** &nbsp; `31%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `53%` |
+| 🌡️ | **Min / Max** &nbsp; `31° / 34°` | ☁️ | **Cloud Cover** &nbsp; `24%` |
+| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:02 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `07 August 2026, 09:36 WIB` |
+| 🏭 | **Air Quality** &nbsp; Moderate 🟠 (AQI 3) | 🕗 | **Updated** &nbsp; `07 August 2026, 10:43 WIB` |
 
 ---
 
