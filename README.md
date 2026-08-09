@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Clear Sky — Saturday, 08 August 2026
+## 📊 Broken Clouds — Sunday, 09 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 40°C)* | 💧 | **Humidity** &nbsp; `56%` |
-| 🌡️ | **Min / Max** &nbsp; `33° / 34°` | ☁️ | **Cloud Cover** &nbsp; `0%` |
-| 🌬️ | **Wind** &nbsp; `3.13 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
-| 🌅 | **Sunrise** &nbsp; `06:02 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `08 August 2026, 13:48 WIB` |
+| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `77%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 31°` | ☁️ | **Cloud Cover** &nbsp; `59%` |
+| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌅 | **Sunrise** &nbsp; `06:01 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `09 August 2026, 08:39 WIB` |
 
 ---
 
