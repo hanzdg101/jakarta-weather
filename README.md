@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Tuesday, 11 August 2026
+## 📊 Clear Sky — Wednesday, 12 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `80%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 30°` | ☁️ | **Cloud Cover** &nbsp; `51%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `62%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 31°` | ☁️ | **Cloud Cover** &nbsp; `1%` |
+| 🌬️ | **Wind** &nbsp; `1.79 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:01 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `11 August 2026, 21:19 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `12 August 2026, 08:51 WIB` |
 
 ---
 
