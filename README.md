@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Friday, 14 August 2026
+## 📊 Broken Clouds — Friday, 14 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `84%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 29°` | ☁️ | **Cloud Cover** &nbsp; `91%` |
-| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `59%` |
+| 🌡️ | **Min / Max** &nbsp; `31° / 31°` | ☁️ | **Cloud Cover** &nbsp; `68%` |
+| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `06:00 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `14 August 2026, 08:51 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `14 August 2026, 10:20 WIB` |
 
 ---
 
