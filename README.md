@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Thursday, 20 August 2026
+## 📊 Moderate Rain — Thursday, 20 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `71%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 31°` | ☁️ | **Cloud Cover** &nbsp; `35%` |
-| 🌬️ | **Wind** &nbsp; `6.17 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `77%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 29°` | ☁️ | **Cloud Cover** &nbsp; `27%` |
+| 🌬️ | **Wind** &nbsp; `5.66 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.01 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:58 WIB` | 🌇 | **Sunset** &nbsp; `17:54 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `20 August 2026, 16:20 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `20 August 2026, 18:33 WIB` |
 
 ---
 
