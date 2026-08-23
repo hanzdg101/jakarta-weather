@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Sunday, 23 August 2026
+## 📊 Scattered Clouds — Sunday, 23 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `77%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 31°` | ☁️ | **Cloud Cover** &nbsp; `70%` |
-| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1015 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `70%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 32°` | ☁️ | **Cloud Cover** &nbsp; `37%` |
+| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:57 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `23 August 2026, 09:19 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `23 August 2026, 10:46 WIB` |
 
 ---
 
