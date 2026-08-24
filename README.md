@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Sunday, 23 August 2026
+## 📊 Clear Sky — Monday, 24 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `51%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 35°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
-| 🌬️ | **Wind** &nbsp; `5.66 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
-| 🌅 | **Sunrise** &nbsp; `05:57 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `23 August 2026, 13:36 WIB` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `79%` |
+| 🌡️ | **Min / Max** &nbsp; `28° / 29°` | ☁️ | **Cloud Cover** &nbsp; `5%` |
+| 🌬️ | **Wind** &nbsp; `2.06 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1015 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌅 | **Sunrise** &nbsp; `05:56 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 August 2026, 08:12 WIB` |
 
 ---
 
