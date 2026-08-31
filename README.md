@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `55%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Cloud Cover** &nbsp; `0%` |
-| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `48%` |
+| 🌡️ | **Min / Max** &nbsp; `32° / 35°` | ☁️ | **Cloud Cover** &nbsp; `0%` |
+| 🌬️ | **Wind** &nbsp; `4.63 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:53 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `31 August 2026, 10:52 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `31 August 2026, 13:27 WIB` |
 
 ---
 
