@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Monday, 31 August 2026
+## 📊 Clear Sky — Monday, 31 August 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `79%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `43%` |
-| 🌬️ | **Wind** &nbsp; `1.03 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `55%` |
+| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Cloud Cover** &nbsp; `0%` |
+| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:53 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `31 August 2026, 01:27 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `31 August 2026, 10:52 WIB` |
 
 ---
 
