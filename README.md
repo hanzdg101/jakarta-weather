@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Wednesday, 02 September 2026
+## 📊 Scattered Clouds — Wednesday, 02 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
 | 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `75%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 29°` | ☁️ | **Cloud Cover** &nbsp; `86%` |
-| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `43%` |
+| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:52 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `02 September 2026, 00:11 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `02 September 2026, 01:12 WIB` |
 
 ---
 
