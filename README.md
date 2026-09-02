@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Clear Sky — Wednesday, 02 September 2026
+## 📊 Few Clouds — Wednesday, 02 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `54%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 33°` | ☁️ | **Cloud Cover** &nbsp; `0%` |
-| 🌬️ | **Wind** &nbsp; `5.14 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1015 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `48%` |
+| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Cloud Cover** &nbsp; `12%` |
+| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:52 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `02 September 2026, 10:03 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `02 September 2026, 12:17 WIB` |
 
 ---
 
