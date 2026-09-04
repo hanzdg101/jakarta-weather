@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Friday, 04 September 2026
+## 📊 Clear Sky — Friday, 04 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 27°C)* | 💧 | **Humidity** &nbsp; `67%` |
-| 🌡️ | **Min / Max** &nbsp; `25° / 27°` | ☁️ | **Cloud Cover** &nbsp; `37%` |
-| 🌬️ | **Wind** &nbsp; `2.06 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `69%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 31°` | ☁️ | **Cloud Cover** &nbsp; `4%` |
+| 🌬️ | **Wind** &nbsp; `1.03 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1015 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:51 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `04 September 2026, 01:23 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `04 September 2026, 10:04 WIB` |
 
 ---
 
