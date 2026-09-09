@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Wednesday, 09 September 2026
+## 📊 Overcast Clouds — Thursday, 10 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `46%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 36°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `4.12 m/s` from `NW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
-| 🌅 | **Sunrise** &nbsp; `05:49 WIB` | 🌇 | **Sunset** &nbsp; `17:51 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `09 September 2026, 12:35 WIB` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `74%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `93%` |
+| 🌬️ | **Wind** &nbsp; `2.24 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌅 | **Sunrise** &nbsp; `05:48 WIB` | 🌇 | **Sunset** &nbsp; `17:51 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `10 September 2026, 00:03 WIB` |
 
 ---
 
