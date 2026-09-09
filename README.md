@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Wednesday, 09 September 2026
+## 📊 Clear Sky — Wednesday, 09 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `72%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 28°` | ☁️ | **Cloud Cover** &nbsp; `82%` |
-| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `53%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 33°` | ☁️ | **Cloud Cover** &nbsp; `9%` |
+| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:49 WIB` | 🌇 | **Sunset** &nbsp; `17:51 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `09 September 2026, 01:22 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `09 September 2026, 10:16 WIB` |
 
 ---
 
