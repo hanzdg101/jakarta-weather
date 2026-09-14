@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Monday, 14 September 2026
+## 📊 Clear Sky — Monday, 14 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 29°C)* | 💧 | **Humidity** &nbsp; `66%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 28°` | ☁️ | **Cloud Cover** &nbsp; `78%` |
-| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `40%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 36°` | ☁️ | **Cloud Cover** &nbsp; `9%` |
+| 🌬️ | **Wind** &nbsp; `7.72 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:46 WIB` | 🌇 | **Sunset** &nbsp; `17:50 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `14 September 2026, 00:57 WIB` |
+| 🏭 | **Air Quality** &nbsp; Moderate 🟠 (AQI 3) | 🕗 | **Updated** &nbsp; `14 September 2026, 10:33 WIB` |
 
 ---
 
