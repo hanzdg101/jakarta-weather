@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `67%` |
-| 🌡️ | **Min / Max** &nbsp; `29° / 32°` | ☁️ | **Cloud Cover** &nbsp; `22%` |
-| 🌬️ | **Wind** &nbsp; `6.69 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.26 mm` |
+| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `70%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 31°` | ☁️ | **Cloud Cover** &nbsp; `38%` |
+| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.85 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:44 WIB` | 🌇 | **Sunset** &nbsp; `17:49 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 September 2026, 16:18 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 September 2026, 17:17 WIB` |
 
 ---
 
