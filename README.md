@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Saturday, 19 September 2026
+## 📊 Light Rain — Saturday, 19 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `53%` |
-| 🌡️ | **Min / Max** &nbsp; `31° / 34°` | ☁️ | **Cloud Cover** &nbsp; `14%` |
-| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `67%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 32°` | ☁️ | **Cloud Cover** &nbsp; `22%` |
+| 🌬️ | **Wind** &nbsp; `6.69 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.26 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:44 WIB` | 🌇 | **Sunset** &nbsp; `17:49 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `19 September 2026, 14:46 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 September 2026, 16:18 WIB` |
 
 ---
 
