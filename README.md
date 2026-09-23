@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Thursday, 24 September 2026
+## 📊 Broken Clouds — Thursday, 24 September 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `74%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 29°` | ☁️ | **Cloud Cover** &nbsp; `18%` |
-| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `75%` |
+| 🌡️ | **Min / Max** &nbsp; `28° / 28°` | ☁️ | **Cloud Cover** &nbsp; `84%` |
+| 🌬️ | **Wind** &nbsp; `2.57 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:41 WIB` | 🌇 | **Sunset** &nbsp; `17:48 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `24 September 2026, 00:45 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `24 September 2026, 01:53 WIB` |
 
 ---
 
