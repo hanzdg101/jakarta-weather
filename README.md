@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Thursday, 01 October 2026
+## 📊 Light Rain — Friday, 02 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 40°C)* | 💧 | **Humidity** &nbsp; `65%` |
-| 🌡️ | **Min / Max** &nbsp; `33° / 34°` | ☁️ | **Cloud Cover** &nbsp; `97%` |
-| 🌬️ | **Wind** &nbsp; `2.24 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
-| 🌅 | **Sunrise** &nbsp; `05:37 WIB` | 🌇 | **Sunset** &nbsp; `17:47 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `01 October 2026, 13:42 WIB` |
+| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 30°C)* | 💧 | **Humidity** &nbsp; `73%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `98%` |
+| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1015 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.51 mm` |
+| 🌅 | **Sunrise** &nbsp; `05:37 WIB` | 🌇 | **Sunset** &nbsp; `17:46 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `02 October 2026, 00:19 WIB` |
 
 ---
 
