@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Light Rain — Saturday, 03 October 2026
+## 📊 Broken Clouds — Sunday, 04 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 28°C)* | 💧 | **Humidity** &nbsp; `65%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 28°` | ☁️ | **Cloud Cover** &nbsp; `85%` |
-| 🌬️ | **Wind** &nbsp; `1.43 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.38 mm` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 30°C)* | 💧 | **Humidity** &nbsp; `62%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `57%` |
+| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:36 WIB` | 🌇 | **Sunset** &nbsp; `17:46 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `03 October 2026, 02:47 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `04 October 2026, 00:01 WIB` |
 
 ---
 
