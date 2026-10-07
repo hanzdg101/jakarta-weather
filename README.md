@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Wednesday, 07 October 2026
+## 📊 Light Rain — Wednesday, 07 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `70%` |
-| 🌡️ | **Min / Max** &nbsp; `31° / 32°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
-| 🌬️ | **Wind** &nbsp; `4.12 m/s` from `NW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `71%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 31°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
+| 🌬️ | **Wind** &nbsp; `5.14 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.13 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:34 WIB` | 🌇 | **Sunset** &nbsp; `17:46 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `07 October 2026, 16:43 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `07 October 2026, 18:37 WIB` |
 
 ---
 
