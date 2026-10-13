@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Tuesday, 13 October 2026
+## 📊 Broken Clouds — Tuesday, 13 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `77%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `93%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `36°C` *(feels like 40°C)* | 💧 | **Humidity** &nbsp; `44%` |
+| 🌡️ | **Min / Max** &nbsp; `35° / 37°` | ☁️ | **Cloud Cover** &nbsp; `77%` |
+| 🌬️ | **Wind** &nbsp; `7.72 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:32 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `13 October 2026, 05:24 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `13 October 2026, 12:37 WIB` |
 
 ---
 
