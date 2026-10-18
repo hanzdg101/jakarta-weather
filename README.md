@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Light Rain — Sunday, 18 October 2026
+## 📊 Overcast Clouds — Sunday, 18 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 30°C)* | 💧 | **Humidity** &nbsp; `63%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `47%` |
-| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.12 mm` |
+| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `52%` |
+| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Cloud Cover** &nbsp; `97%` |
+| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:30 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `18 October 2026, 00:46 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `18 October 2026, 10:11 WIB` |
 
 ---
 
