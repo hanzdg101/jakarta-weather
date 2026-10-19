@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Monday, 19 October 2026
+## 📊 Broken Clouds — Monday, 19 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 39°C)* | 💧 | **Humidity** &nbsp; `53%` |
-| 🌡️ | **Min / Max** &nbsp; `33° / 35°` | ☁️ | **Cloud Cover** &nbsp; `36%` |
-| 🌬️ | **Wind** &nbsp; `2.57 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `35°C` *(feels like 40°C)* | 💧 | **Humidity** &nbsp; `50%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 36°` | ☁️ | **Cloud Cover** &nbsp; `56%` |
+| 🌬️ | **Wind** &nbsp; `3.13 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:29 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 October 2026, 10:24 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 October 2026, 12:31 WIB` |
 
 ---
 
