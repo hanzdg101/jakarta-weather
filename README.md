@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Clear Sky — Tuesday, 20 October 2026
+## 📊 Scattered Clouds — Tuesday, 20 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 39°C)* | 💧 | **Humidity** &nbsp; `55%` |
-| 🌡️ | **Min / Max** &nbsp; `33° / 35°` | ☁️ | **Cloud Cover** &nbsp; `4%` |
-| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `36°C` *(feels like 41°C)* | 💧 | **Humidity** &nbsp; `49%` |
+| 🌡️ | **Min / Max** &nbsp; `34° / 37°` | ☁️ | **Cloud Cover** &nbsp; `34%` |
+| 🌬️ | **Wind** &nbsp; `4.63 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:29 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Moderate 🟠 (AQI 3) | 🕗 | **Updated** &nbsp; `20 October 2026, 10:33 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `20 October 2026, 12:34 WIB` |
 
 ---
 
