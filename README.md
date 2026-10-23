@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `35°C` *(feels like 40°C)* | 💧 | **Humidity** &nbsp; `50%` |
-| 🌡️ | **Min / Max** &nbsp; `34° / 35°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `NW` | 👁️ | **Visibility** &nbsp; `5.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 41°C)* | 💧 | **Humidity** &nbsp; `63%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 35°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `5.14 m/s` from `N` | 👁️ | **Visibility** &nbsp; `5.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1007 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:28 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `23 October 2026, 12:35 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `23 October 2026, 15:12 WIB` |
 
 ---
 
