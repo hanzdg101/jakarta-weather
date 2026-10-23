@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Thunderstorm With Light Rain — Friday, 23 October 2026
+## 📊 Scattered Clouds — Saturday, 24 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `62%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 32°` | ☁️ | **Cloud Cover** &nbsp; `75%` |
-| 🌬️ | **Wind** &nbsp; `5.14 m/s` from `S` | 👁️ | **Visibility** &nbsp; `5.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.1 mm` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 29°C)* | 💧 | **Humidity** &nbsp; `60%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `29%` |
+| 🌬️ | **Wind** &nbsp; `2.24 m/s` from `S` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:28 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `23 October 2026, 19:29 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 October 2026, 00:45 WIB` |
 
 ---
 
