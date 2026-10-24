@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Saturday, 24 October 2026
+## 📊 Scattered Clouds — Saturday, 24 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 30°C)* | 💧 | **Humidity** &nbsp; `61%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `53%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `55%` |
+| 🌡️ | **Min / Max** &nbsp; `32° / 33°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `6.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:28 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 October 2026, 01:54 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 October 2026, 10:26 WIB` |
 
 ---
 
