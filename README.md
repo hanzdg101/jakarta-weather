@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Sunday, 25 October 2026
+## 📊 Thunderstorm — Sunday, 25 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `57%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 33°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `7.72 m/s` from `N` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `61%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 32°` | ☁️ | **Cloud Cover** &nbsp; `75%` |
+| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `N` | 👁️ | **Visibility** &nbsp; `6.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1008 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:27 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `25 October 2026, 15:03 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `25 October 2026, 16:38 WIB` |
 
 ---
 
