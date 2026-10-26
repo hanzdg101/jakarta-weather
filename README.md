@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Haze — Monday, 26 October 2026
+## 📊 Scattered Clouds — Monday, 26 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `69%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 31°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `4.63 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `5.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `76%` |
+| 🌡️ | **Min / Max** &nbsp; `28° / 30°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `S` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:27 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `26 October 2026, 19:14 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `26 October 2026, 21:01 WIB` |
 
 ---
 
