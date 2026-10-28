@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Moderate Rain — Thursday, 29 October 2026
+## 📊 Light Rain — Thursday, 29 October 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `26°C` *(feels like 26°C)* | 💧 | **Humidity** &nbsp; `96%` |
-| 🌡️ | **Min / Max** &nbsp; `25° / 28°` | ☁️ | **Cloud Cover** &nbsp; `97%` |
-| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `3.6 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.78 mm` |
+| 🌡️ | **Temperature** &nbsp; `26°C` *(feels like 27°C)* | 💧 | **Humidity** &nbsp; `97%` |
+| 🌡️ | **Min / Max** &nbsp; `25° / 28°` | ☁️ | **Cloud Cover** &nbsp; `99%` |
+| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `S` | 👁️ | **Visibility** &nbsp; `3.7 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.22 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `29 October 2026, 01:40 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `29 October 2026, 03:06 WIB` |
 
 ---
 
