@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Sunday, 01 November 2026
+## 📊 Light Rain — Sunday, 01 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `85%` |
+| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `85%` |
 | 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `7.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `W` | 👁️ | **Visibility** &nbsp; `9.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.56 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `01 November 2026, 00:31 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `01 November 2026, 02:07 WIB` |
 
 ---
 
