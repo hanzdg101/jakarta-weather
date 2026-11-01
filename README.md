@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Moderate Rain — Sunday, 01 November 2026
+## 📊 Scattered Clouds — Sunday, 01 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `77%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 29°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `5.14 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `8.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.35 mm` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `80%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `2.57 m/s` from `S` | 👁️ | **Visibility** &nbsp; `8.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:45 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `01 November 2026, 21:08 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `01 November 2026, 22:30 WIB` |
 
 ---
 
