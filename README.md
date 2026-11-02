@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Monday, 02 November 2026
+## 📊 Scattered Clouds — Monday, 02 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `49%` |
-| 🌡️ | **Min / Max** &nbsp; `34° / 35°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
-| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `W` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `35°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `46%` |
+| 🌡️ | **Min / Max** &nbsp; `34° / 36°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `5.66 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:46 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `02 November 2026, 11:37 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `02 November 2026, 13:59 WIB` |
 
 ---
 
