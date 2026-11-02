@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Scattered Clouds — Monday, 02 November 2026
+## 📊 Broken Clouds — Monday, 02 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `35°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `46%` |
-| 🌡️ | **Min / Max** &nbsp; `34° / 36°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `5.66 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `82%` |
+| 🌡️ | **Min / Max** &nbsp; `31° / 32°` | ☁️ | **Cloud Cover** &nbsp; `59%` |
+| 🌬️ | **Wind** &nbsp; `4.02 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:46 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `02 November 2026, 13:59 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `02 November 2026, 17:28 WIB` |
 
 ---
 
