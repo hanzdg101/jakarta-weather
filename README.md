@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Light Rain — Tuesday, 03 November 2026
+## 📊 Scattered Clouds — Tuesday, 03 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `85%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `66%` |
-| 🌬️ | **Wind** &nbsp; `2.06 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `6.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.35 mm` |
+| 🌡️ | **Temperature** &nbsp; `35°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `44%` |
+| 🌡️ | **Min / Max** &nbsp; `34° / 36°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `7.72 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `7.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:46 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `03 November 2026, 05:59 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `03 November 2026, 12:28 WIB` |
 
 ---
 
