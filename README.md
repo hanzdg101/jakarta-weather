@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Friday, 06 November 2026
+## 📊 Scattered Clouds — Friday, 06 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 39°C)* | 💧 | **Humidity** &nbsp; `51%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 35°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `5.14 m/s` from `N` | 👁️ | **Visibility** &nbsp; `7.0 km` |
+| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `65%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 33°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `N` | 👁️ | **Visibility** &nbsp; `7.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:46 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `06 November 2026, 14:30 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `06 November 2026, 17:19 WIB` |
 
 ---
 
