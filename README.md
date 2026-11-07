@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `45%` |
-| 🌡️ | **Min / Max** &nbsp; `33° / 35°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `6.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 39°C)* | 💧 | **Humidity** &nbsp; `48%` |
+| 🌡️ | **Min / Max** &nbsp; `34° / 35°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `N` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:47 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `07 November 2026, 11:47 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `07 November 2026, 13:43 WIB` |
 
 ---
 
