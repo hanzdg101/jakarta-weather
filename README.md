@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Light Rain — Saturday, 07 November 2026
+## 📊 Scattered Clouds — Saturday, 07 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 29°C)* | 💧 | **Humidity** &nbsp; `76%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 30°` | ☁️ | **Cloud Cover** &nbsp; `29%` |
-| 🌬️ | **Wind** &nbsp; `2.57 m/s` from `W` | 👁️ | **Visibility** &nbsp; `7.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.15 mm` |
+| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `45%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 35°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `NE` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:47 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `07 November 2026, 03:42 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `07 November 2026, 11:47 WIB` |
 
 ---
 
