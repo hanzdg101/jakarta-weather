@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Broken Clouds — Sunday, 08 November 2026
+## 📊 Light Rain — Monday, 09 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `79%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 31°` | ☁️ | **Cloud Cover** &nbsp; `67%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `W` | 👁️ | **Visibility** &nbsp; `8.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `84%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 29°` | ☁️ | **Cloud Cover** &nbsp; `77%` |
+| 🌬️ | **Wind** &nbsp; `0 m/s` from `N` | 👁️ | **Visibility** &nbsp; `7.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.11 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:47 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `08 November 2026, 22:37 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `09 November 2026, 01:14 WIB` |
 
 ---
 
