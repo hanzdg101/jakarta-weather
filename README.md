@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Wednesday, 11 November 2026
+## 📊 Haze — Wednesday, 11 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 27°C)* | 💧 | **Humidity** &nbsp; `83%` |
-| 🌡️ | **Min / Max** &nbsp; `25° / 28°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `0.89 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 39°C)* | 💧 | **Humidity** &nbsp; `57%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 34°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `5.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:47 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `11 November 2026, 04:13 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `11 November 2026, 11:51 WIB` |
 
 ---
 
