@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Thursday, 12 November 2026
+## 📊 Scattered Clouds — Thursday, 12 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `82%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 28°` | ☁️ | **Cloud Cover** &nbsp; `99%` |
-| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 30°C)* | 💧 | **Humidity** &nbsp; `81%` |
+| 🌡️ | **Min / Max** &nbsp; `26° / 28°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `6.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:48 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `12 November 2026, 01:30 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `12 November 2026, 03:01 WIB` |
 
 ---
 
