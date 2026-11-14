@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Light Rain — Saturday, 14 November 2026
+## 📊 Thunderstorm — Saturday, 14 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `81%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 29°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `NW` | 👁️ | **Visibility** &nbsp; `5.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.63 mm` |
+| 🌡️ | **Temperature** &nbsp; `30°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `73%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 33°` | ☁️ | **Cloud Cover** &nbsp; `75%` |
+| 🌬️ | **Wind** &nbsp; `2.57 m/s` from `W` | 👁️ | **Visibility** &nbsp; `4.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.41 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:48 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `14 November 2026, 04:13 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `14 November 2026, 12:04 WIB` |
 
 ---
 
