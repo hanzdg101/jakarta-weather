@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Light Rain — Sunday, 15 November 2026
+## 📊 Haze — Sunday, 15 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `49%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 35°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `1.54 m/s` from `N` | 👁️ | **Visibility** &nbsp; `8.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.45 mm` |
+| 🌡️ | **Temperature** &nbsp; `34°C` *(feels like 39°C)* | 💧 | **Humidity** &nbsp; `52%` |
+| 🌡️ | **Min / Max** &nbsp; `33° / 34°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `5.14 m/s` from `N` | 👁️ | **Visibility** &nbsp; `5.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1008 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:49 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `15 November 2026, 11:57 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `15 November 2026, 14:22 WIB` |
 
 ---
 
