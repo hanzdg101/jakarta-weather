@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `32°C` *(feels like 39°C)* | 💧 | **Humidity** &nbsp; `72%` |
-| 🌡️ | **Min / Max** &nbsp; `30° / 33°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `4.12 m/s` from `N` | 👁️ | **Visibility** &nbsp; `7.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `70%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 32°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `2.24 m/s` from `S` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.69 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:49 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `15 November 2026, 17:20 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `15 November 2026, 19:34 WIB` |
 
 ---
 
