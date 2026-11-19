@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Moderate Rain — Thursday, 19 November 2026
+## 📊 Broken Clouds — Thursday, 19 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `100%` |
+| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `90%` |
 | 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `75%` |
-| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `W` | 👁️ | **Visibility** &nbsp; `4.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.27 mm` |
+| 🌬️ | **Wind** &nbsp; `0 m/s` from `N` | 👁️ | **Visibility** &nbsp; `5.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1015 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:50 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 November 2026, 18:03 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `19 November 2026, 21:12 WIB` |
 
 ---
 
