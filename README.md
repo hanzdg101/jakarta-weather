@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Mist — Thursday, 19 November 2026
+## 📊 Overcast Clouds — Thursday, 19 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 27°C)* | 💧 | **Humidity** &nbsp; `83%` |
-| 🌡️ | **Min / Max** &nbsp; `25° / 28°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `S` | 👁️ | **Visibility** &nbsp; `4.0 km` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 38°C)* | 💧 | **Humidity** &nbsp; `89%` |
+| 🌡️ | **Min / Max** &nbsp; `29° / 33°` | ☁️ | **Cloud Cover** &nbsp; `97%` |
+| 🌬️ | **Wind** &nbsp; `4.63 m/s` from `N` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:50 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 November 2026, 05:29 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `19 November 2026, 13:02 WIB` |
 
 ---
 
