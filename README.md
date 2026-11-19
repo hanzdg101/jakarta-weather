@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Few Clouds — Friday, 20 November 2026
+## 📊 Mist — Friday, 20 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `26°C` *(feels like 26°C)* | 💧 | **Humidity** &nbsp; `90%` |
+| 🌡️ | **Temperature** &nbsp; `26°C` *(feels like 26°C)* | 💧 | **Humidity** &nbsp; `89%` |
 | 🌡️ | **Min / Max** &nbsp; `25° / 28°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `0 m/s` from `N` | 👁️ | **Visibility** &nbsp; `3.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `2.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:50 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `20 November 2026, 00:46 WIB` |
+| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `20 November 2026, 02:26 WIB` |
 
 ---
 
