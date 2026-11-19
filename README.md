@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Thunderstorm With Light Rain — Thursday, 19 November 2026
+## 📊 Moderate Rain — Thursday, 19 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 36°C)* | 💧 | **Humidity** &nbsp; `88%` |
-| 🌡️ | **Min / Max** &nbsp; `28° / 32°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `4.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.87 mm` |
+| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `100%` |
+| 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `75%` |
+| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `W` | 👁️ | **Visibility** &nbsp; `4.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1012 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.27 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:25 WIB` | 🌇 | **Sunset** &nbsp; `17:50 WIB` |
-| 🏭 | **Air Quality** &nbsp; Fair 🟡 (AQI 2) | 🕗 | **Updated** &nbsp; `19 November 2026, 15:12 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `19 November 2026, 18:03 WIB` |
 
 ---
 
