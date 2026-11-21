@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 31°C)* | 💧 | **Humidity** &nbsp; `82%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `94%` |
-| 🌬️ | **Wind** &nbsp; `1.88 m/s` from `E` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `82%` |
+| 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `97%` |
+| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
 | 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:51 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `22 November 2026, 00:55 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `22 November 2026, 02:57 WIB` |
 
 ---
 
