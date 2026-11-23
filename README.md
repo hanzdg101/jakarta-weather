@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Light Rain — Tuesday, 24 November 2026
+## 📊 Moderate Rain — Tuesday, 24 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `88%` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `90%` |
 | 🌡️ | **Min / Max** &nbsp; `27° / 28°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `7.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.24 mm` |
+| 🌬️ | **Wind** &nbsp; `3.09 m/s` from `S` | 👁️ | **Visibility** &nbsp; `6.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1013 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.2 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 November 2026, 00:23 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 November 2026, 02:04 WIB` |
 
 ---
 
