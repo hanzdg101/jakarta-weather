@@ -14,12 +14,12 @@
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 34°C)* | 💧 | **Humidity** &nbsp; `76%` |
-| 🌡️ | **Min / Max** &nbsp; `27° / 31°` | ☁️ | **Cloud Cover** &nbsp; `95%` |
-| 🌬️ | **Wind** &nbsp; `1.34 m/s` from `SE` | 👁️ | **Visibility** &nbsp; `8.2 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.15 mm` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `79%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 30°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
+| 🌬️ | **Wind** &nbsp; `3.58 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `5.2 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.83 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 November 2026, 17:34 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `24 November 2026, 20:13 WIB` |
 
 ---
 
