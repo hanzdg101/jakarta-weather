@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Moderate Rain — Wednesday, 25 November 2026
+## 📊 Scattered Clouds — Wednesday, 25 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `33°C` *(feels like 40°C)* | 💧 | **Humidity** &nbsp; `68%` |
-| 🌡️ | **Min / Max** &nbsp; `32° / 34°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
-| 🌬️ | **Wind** &nbsp; `4.12 m/s` from `N` | 👁️ | **Visibility** &nbsp; `8.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1008 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `29°C` *(feels like 33°C)* | 💧 | **Humidity** &nbsp; `74%` |
+| 🌡️ | **Min / Max** &nbsp; `28° / 29°` | ☁️ | **Cloud Cover** &nbsp; `40%` |
+| 🌬️ | **Wind** &nbsp; `2.06 m/s` from `S` | 👁️ | **Visibility** &nbsp; `8.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1010 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:52 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `25 November 2026, 16:24 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `25 November 2026, 19:02 WIB` |
 
 ---
 
