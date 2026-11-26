@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Moderate Rain — Thursday, 26 November 2026
+## 📊 Haze — Thursday, 26 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 30°C)* | 💧 | **Humidity** &nbsp; `80%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `20%` |
-| 🌬️ | **Wind** &nbsp; `2.06 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `8.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `1.38 mm` |
+| 🌡️ | **Temperature** &nbsp; `31°C` *(feels like 37°C)* | 💧 | **Humidity** &nbsp; `73%` |
+| 🌡️ | **Min / Max** &nbsp; `30° / 32°` | ☁️ | **Cloud Cover** &nbsp; `75%` |
+| 🌬️ | **Wind** &nbsp; `3.6 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `4.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1009 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
 | 🌅 | **Sunrise** &nbsp; `05:26 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `26 November 2026, 06:28 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `26 November 2026, 13:58 WIB` |
 
 ---
 
