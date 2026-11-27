@@ -10,16 +10,16 @@
 
 ---
 
-## 📊 Overcast Clouds — Friday, 27 November 2026
+## 📊 Light Rain — Saturday, 28 November 2026
 
 | | | | |
 |:---:|:---|:---:|:---|
-| 🌡️ | **Temperature** &nbsp; `27°C` *(feels like 32°C)* | 💧 | **Humidity** &nbsp; `88%` |
-| 🌡️ | **Min / Max** &nbsp; `26° / 29°` | ☁️ | **Cloud Cover** &nbsp; `100%` |
-| 🌬️ | **Wind** &nbsp; `0.45 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
-| 🌫️ | **Pressure** &nbsp; `1011 hPa` | 🌧️ | **Rain (1h)** &nbsp; `—` |
+| 🌡️ | **Temperature** &nbsp; `28°C` *(feels like 35°C)* | 💧 | **Humidity** &nbsp; `91%` |
+| 🌡️ | **Min / Max** &nbsp; `27° / 29°` | ☁️ | **Cloud Cover** &nbsp; `97%` |
+| 🌬️ | **Wind** &nbsp; `2.06 m/s` from `SW` | 👁️ | **Visibility** &nbsp; `10.0 km` |
+| 🌫️ | **Pressure** &nbsp; `1014 hPa` | 🌧️ | **Rain (1h)** &nbsp; `0.11 mm` |
 | 🌅 | **Sunrise** &nbsp; `05:27 WIB` | 🌇 | **Sunset** &nbsp; `17:53 WIB` |
-| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `27 November 2026, 00:36 WIB` |
+| 🏭 | **Air Quality** &nbsp; Good 🟢 (AQI 1) | 🕗 | **Updated** &nbsp; `28 November 2026, 00:19 WIB` |
 
 ---
 
